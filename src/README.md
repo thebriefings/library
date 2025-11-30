@@ -58,12 +58,17 @@ will it provide the testing/evaluation services, or will it invite technology fi
 
 ## References
 
+Discussion:
 * [AI Growth Lab](https://www.gov.uk/government/calls-for-evidence/ai-growth-lab/ai-growth-lab)
 * [AI Opportunities Action Plan](https://www.gov.uk/government/publications/ai-opportunities-action-plan/ai-opportunities-action-plan)
 * [Industrial Strategy](https://www.gov.uk/government/publications/industrial-strategy)
   * [Industrial Strategy Sector Definitions List](https://www.gov.uk/government/publications/industrial-strategy/industrial-strategy-sector-definitions-list)
 * [FCA Innovation Hub](https://www.fca.org.uk/firms/innovation)
 * [Regulatory sandboxes in artificial intelligence](https://www.oecd.org/en/publications/regulatory-sandboxes-in-artificial-intelligence_8f80a0e6-en.html)
+* [Catalogue of Tools & Metrics for Trustworthy AI](https://oecd.ai/en/catalogue/overview)
+* [Understanding the Bias-Variance Trade-off](https://scott.fortmann-roe.com/docs/BiasVariance.html)
+
+Extra:
 * Transformative Artificial Intelligence?
   * [Some Background on Our Views Regarding Advanced Artificial Intelligence](https://coefficientgiving.org/research/some-background-on-our-views-regarding-advanced-artificial-intelligence/)
   * [The Economics of Transformative AI: A Research Agenda](https://digitaleconomy.stanford.edu/wp-content/uploads/2024/11/ETAI-White-Paper.pdf)
