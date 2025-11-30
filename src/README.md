@@ -28,9 +28,13 @@ Considerations include &rarr;
 Addendum: threat assessment, security
 * [Test and Evaluation of Systems with Embedded Machine Learning Components](https://itea.org/journals/volume-44-3/test-and-evaluation-of-systems-with-embedded-ml-components/)
 * [Red Teaming AI Red Teaming](https://arxiv.org/abs/2507.05538)
-* [GenAI Red Teaming Guide](https://genai.owasp.org/resource/genai-red-teaming-guide/#)
+* [Generative Artificial Intelligence Red Teaming Guide](https://genai.owasp.org/resource/genai-red-teaming-guide/#)
 * [AI Exchange](https://owaspai.org)
 * [Key Findings](https://yourtechnoguide.com/tech-security-tips/ai-red-teaming-lessons-nist-report-2025/)
+* [ATLAS Matrix | MITRE ATLAS™](https://atlas.mitre.org/matrices/ATLAS)
+* [MIT AI Risk Initiative](https://airisk.mit.edu)
+* [AIM: AI Incidents and Hazards Monitor](https://oecd.ai/en/incidents)
+* [National Institutes of Standards & Technology AI Risk Management](https://airc.nist.gov/airmf-resources/)
 
 <br>
 <br>
