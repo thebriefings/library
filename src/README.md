@@ -50,8 +50,8 @@ Addendum: threat assessment, security
 
 
 **Companies in Scotland:** 
-* https://platform.dkv.global/mind-map/ai-in-scotland/
-* https://platform.dkv.global/map/reports/ai-in-scotland/
+* [AI in Scotland](https://platform.dkv.global/mind-map/ai-in-scotland/)
+* [AI in Scotland](https://platform.dkv.global/map/reports/ai-in-scotland/)
 
 
 **What are laboratories providing?**
