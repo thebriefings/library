@@ -1,14 +1,16 @@
+<br>
 
 ## Sandbox
 
-### Problems ...
+### Addressing
 
-* ethical and bias risk mitigation; tracking, minimisation, elimination
-* development, deployment, and delivery risk mitigation
+* ethical and bias risks; tracking, minimisation, elimination
+* development, deployment, and delivery risks
 * national and international regulatory compliance, the latter in aid of exports
-* dynamic cost estimation & tracking
-
+* tracking, dynamic cost estimation
 * lack of inter-disciplinary knowledge exchange; fundamentally, artificial intelligence/machine learning is applied mathematics.  There have never been different applied mathematics laboratories for each existing/extinct industry.  Industries exploit overlapping ranges of applied mathematics methods; via signal processing, artificial intelligence, operations research, etc.
+
+<br>
 
 ### A sandbox
 
@@ -39,3 +41,16 @@ Addendum: threat assessment, security
 
 * [Enhancing Federal AI Safety: Responsible and Secure AI Sandbox](https://techcommunity.microsoft.com/blog/publicsectorblog/enhancing-federal-ai-safety-responsible-and-secure-ai-sandbox/4279628)
 * [Regulatory sandboxes in artificial intelligence](https://www.oecd.org/en/publications/regulatory-sandboxes-in-artificial-intelligence_8f80a0e6-en.html)
+
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
