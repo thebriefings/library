@@ -9,6 +9,7 @@
 * national and international regulatory compliance, the latter in aid of exports
 * tracking, dynamic cost estimation
 * lack of inter-disciplinary knowledge exchange; fundamentally, artificial intelligence/machine learning is applied mathematics.  There have never been different applied mathematics laboratories for each existing/extinct industry.  Industries exploit overlapping ranges of applied mathematics methods; via signal processing, artificial intelligence, operations research, etc.
+* system level, in-context, programmatic, assessments [programmatic and systematically augmented]
 
 <br>
 
