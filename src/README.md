@@ -37,14 +37,24 @@ Addendum: threat assessment, security
 ## Growth Laboratory
 
 * Assumes, implies, large language model dependent solutions = artificial intelligence.  Most artificial intelligence/machine learning algorithms or architectures are not large language model architectures.
+* A third option, a `federation` of a few laboratories. Consider image classification in warfare, children's games, magnetic resonance images, agriculture ... depending on the problem in question in eac case, a similar deep learning algorithm might be used across sectors, albeit the pre-training set-up might differ
+
+companies of interest
+
 
 <br>
 <br>
 
 ## References
 
+* [Why bad strategy is a ‘social contagion’](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-bad-strategy-is-a-social-contagion)
 * [Enhancing Federal AI Safety: Responsible and Secure AI Sandbox](https://techcommunity.microsoft.com/blog/publicsectorblog/enhancing-federal-ai-safety-responsible-and-secure-ai-sandbox/4279628)
 * [Regulatory sandboxes in artificial intelligence](https://www.oecd.org/en/publications/regulatory-sandboxes-in-artificial-intelligence_8f80a0e6-en.html)
+* [Industrial Strategy](https://www.gov.uk/government/publications/industrial-strategy)
+  * [Industrial Strategy Sector Definitions List](https://www.gov.uk/government/publications/industrial-strategy/industrial-strategy-sector-definitions-list)
+* Transformative Artificial Intelligence?
+  * [Some Background on Our Views Regarding Advanced Artificial Intelligence](https://coefficientgiving.org/research/some-background-on-our-views-regarding-advanced-artificial-intelligence/)
+  * [The Economics of Transformative AI: A Research Agenda](https://digitaleconomy.stanford.edu/wp-content/uploads/2024/11/ETAI-White-Paper.pdf)
 
 
 <br>
