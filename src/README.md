@@ -15,6 +15,7 @@
 
 ### A sandbox
 
+Considerations include &rarr;
 * secure testing
 * secure evaluation; Advanced: System & Supplements Endpoints &bowtie; Independent Evaluation Service API (Application Programming Interface) Endpoints &Rarr; Deliver quantitative, in-context and programmatically determined, in-depth but succinct, outlines of an artificial intelligence dependent system's profile vis-à-vis 
   * underlying models; error & cost evaluations
@@ -30,13 +31,15 @@ Addendum: threat assessment, security
 * [GenAI Red Teaming Guide](https://genai.owasp.org/resource/genai-red-teaming-guide/#)
 * [AI Exchange](https://owaspai.org)
 
-
+<br>
+<br>
 
 ## Growth Laboratory
 
 * Assumes, implies, large language model dependent solutions = artificial intelligence.  Most artificial intelligence/machine learning algorithms or architectures are not large language model architectures.
 
-
+<br>
+<br>
 
 ## References
 
