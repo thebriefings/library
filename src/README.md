@@ -41,17 +41,23 @@ Addendum: threat assessment, security
 
 ## Growth Laboratory
 
+**Points**
 * Assumes, implies, large language model dependent solutions = artificial intelligence.  Most artificial intelligence/machine learning algorithms or architectures are not large language model architectures.
 * Case against a single, centrally operated, lab ...
 * Case against regulator operated lab (second option)
   * > _enable innovations which cut-across traditional regulatory boundaries to be tested. This is increasingly true of AI applications. For example, multiple regulators oversee AI interfacing with healthcare systems, autonomous vehicles coordinating with smart infrastructure, AI-augmented professional services._
 * A third option, a `federation` of a few laboratories. Consider image classification in warfare, children's games, magnetic resonance images, agriculture ... depending on the problem in question in eac case, a similar deep learning algorithm might be used across sectors, albeit the pre-training set-up might differ
 
-companies of interest: 
+
+**Companies in Scotland:** 
 * https://platform.dkv.global/mind-map/ai-in-scotland/
 * https://platform.dkv.global/map/reports/ai-in-scotland/
 
-will it provide the testing/evaluation services, or will it invite technology firms that can aid product developers meet their sector's regulatory obligations, or both
+
+**What are laboratories providing?**
+* In-house testing/evaluation services, or 
+* Access to private testing firms that can aid product developers meet their sector's regulatory obligations, or 
+* An intersection of the above
 
 <br>
 <br>
