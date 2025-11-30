@@ -30,6 +30,7 @@ Addendum: threat assessment, security
 * [Red Teaming AI Red Teaming](https://arxiv.org/abs/2507.05538)
 * [GenAI Red Teaming Guide](https://genai.owasp.org/resource/genai-red-teaming-guide/#)
 * [AI Exchange](https://owaspai.org)
+* [Key Findings](https://yourtechnoguide.com/tech-security-tips/ai-red-teaming-lessons-nist-report-2025/)
 
 <br>
 <br>
